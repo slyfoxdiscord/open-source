@@ -1,4 +1,6 @@
 # open-source
 
 This is a basic example of an open source bot. Join our discord! 
-<iframe src="https://discordapp.com/widget?id=730196067915923607&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+https://discord.gg/f5e4B2V
+
+The support we offer is limited as this is open source, we also don't help with any modifications to the code
